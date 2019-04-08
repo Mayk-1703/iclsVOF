@@ -1,0 +1,3 @@
+newrbsscls.C
+
+EXE = $(FOAM_APPBIN)/newrbsscls
